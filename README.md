@@ -1,2 +1,3 @@
-# PyWeek31
-New Game for Pyweek31
+# Team Game
+New Game for Pyweek31, only for members!
+
